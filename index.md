@@ -5,6 +5,6 @@ header:
   image: /img/coastline.jpg
 ---
 
-I'm an applied mathematician working on the [CLIMA] project. My research interests are in numerical methods, scientific computing, optimization, Bayesian methods, machine learning, and geophysics.
+I am a rising senior at Milton Academy in Massachusetts. My passions are studying biology, writing potery and reading every book I get my hands on. I also love playng my cello and hanging out with friends.
 
 [CLIMA]: https://clima.caltech.edu
