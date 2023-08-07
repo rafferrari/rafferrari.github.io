@@ -1,8 +1,11 @@
 # main links
 main:
-  - title: "Poetry portfolio"
+  - title: "Poetry"
     url: /code/
-  - title: "Girl in STEM class"
+  - title: "Photography"
+  - title: "Cello"
     url: /publications/
+  - title: "Teaching"
+  - title: "Research"
 #  - title: "About"
 #    url: /about/
