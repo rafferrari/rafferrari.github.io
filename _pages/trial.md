@@ -7,4 +7,4 @@ author_profile: true
 ---
 
 ## Education
-PhD University of Michigan 2016
+High School, Milton Academy 2024
