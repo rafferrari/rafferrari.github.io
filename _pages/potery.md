@@ -9,10 +9,12 @@ author_profile: true
 
 ## Potery programs
 I have participated into two poetry programs:
-0. Adroit Journal Summer Mentorship Program, Mentee under Katie Berta, Summer 2023
-0. Kenyon Young Writers Workshop, Winter 2023
+. Adroit Journal Summer Mentorship Program, Mentee under Katie Berta, Summer 2023
+. Kenyon Young Writers Workshop, Winter 2023
 
 ## Awards
+Finalist, Smith College High School Poetry Prize, January 2023 
+
 
 ## Published poems
 
