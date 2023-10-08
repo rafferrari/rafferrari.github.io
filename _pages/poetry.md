@@ -1,5 +1,5 @@
 ---
-title: Poetry portfolio
+title: Poetry
 permalink: /poetry/
 layout: single # splash
 toc: true
@@ -11,8 +11,8 @@ author_profile: true
 - Finalist, Smith College High School Poetry Prize, January 2023 
 - National Silver Medal for Poetry, Scholastic Art & Writing Awards, March 2022
 
-## Poetry programs
-I have participated into two poetry programs:
+## Programs
+I have participated into two competitive poetry programs:
 - Adroit Journal Summer Mentorship Program, Mentee under Katie Berta, Summer 2023
 - Kenyon Young Writers Workshop, Winter 2023
 
@@ -47,7 +47,7 @@ I have participated into two poetry programs:
 [Alan Turing]: turing.md
 [(If you were an amnesiac) a list of the truths I would tell you]: amnesiac.md
 [Ghazal for Longing]: ghazal.md
-[The Essence of Utopia]" utopia.md
+[The Essence of Utopia]: utopia.md
 [Snowfall]: snowfall.md
 [Infinitely Temporary]: infinitely.md
 [Orange Skins]: orangeskins.md
