@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Photography profolios
 permalink: /photography/
 layout: single # splash
 toc: true

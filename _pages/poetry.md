@@ -1,6 +1,6 @@
 ---
 title: Potery portfolio
-permalink: /potery/
+permalink: /poetry/
 layout: single # splash
 toc: true
 toc_label: "Table of Contents"
