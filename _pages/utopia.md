@@ -1,10 +1,10 @@
 ---
-title: fortime
-permalink: /fortime/
+title: utopia
+permalink: /utopia/
 toc: true
 layout: single
 author_profile: true
 ---
 
-## For Time
+## The Essence of Utopia
 Text

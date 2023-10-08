@@ -1,10 +1,10 @@
 ---
-title: fortime
-permalink: /fortime/
+title: snowfall
+permalink: /snowfall/
 toc: true
 layout: single
 author_profile: true
 ---
 
-## For Time
+## Snowfall
 Text

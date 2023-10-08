@@ -1,10 +1,10 @@
 ---
-title: fortime
-permalink: /fortime/
+title: turing
+permalink: /turing/
 toc: true
 layout: single
 author_profile: true
 ---
 
-## For Time
+## Alan Turing
 Text

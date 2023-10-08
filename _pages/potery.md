@@ -18,8 +18,8 @@ I have participated into two poetry programs:
 
 ## Published poems
 
-1. **[For Time]**, Eunoia Review, forthcoming
-1. **inhale in hands**, Eunoia Review, forthcoming
+1. **[For Time][fortime.md]**, Eunoia Review, forthcoming
+1. **[inhale in hands[inhale.md]**, Eunoia Review, forthcoming
 1. **Alan Turing**, Eunoia Review, forthcoming
 1. **(If you were an amnesiac) a list of the truths I would tell you**, Eunoia Review, forthcoming
 1. **The Road**, Susquehanna University’s Apprentice Writer, forthcoming

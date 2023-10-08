@@ -1,10 +1,10 @@
 ---
-title: fortime
-permalink: /fortime/
+title: inhale
+permalink: /inhale/
 toc: true
 layout: single
 author_profile: true
 ---
 
-## For Time
+## inhale in hands
 Text
