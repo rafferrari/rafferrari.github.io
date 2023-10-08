@@ -1,6 +1,6 @@
 ---
-title: Code
-permalink: /code/
+title: Potery portfolio
+permalink: /potery/
 layout: single # splash
 toc: true
 toc_label: "Table of Contents"
