@@ -7,18 +7,18 @@ toc_label: "Table of Contents"
 author_profile: true
 ---
 
-## Potery programs
+## Awards
+- Finalist, Smith College High School Poetry Prize, January 2023 
+- National Silver Medal for Poetry, Scholastic Art & Writing Awards, March 2022
+
+## Poetry programs
 I have participated into two poetry programs:
 - Adroit Journal Summer Mentorship Program, Mentee under Katie Berta, Summer 2023
 - Kenyon Young Writers Workshop, Winter 2023
 
-## Awards
-Finalist, Smith College High School Poetry Prize, January 2023 
-National Silver Medal for Poetry, Scholastic Art & Writing Awards, March 2022
-
 ## Published poems
 
-1. **For Time**, Eunoia Review, forthcoming
+1. **[For Time]**, Eunoia Review, forthcoming
 1. **inhale in hands**, Eunoia Review, forthcoming
 1. **Alan Turing**, Eunoia Review, forthcoming
 1. **(If you were an amnesiac) a list of the truths I would tell you**, Eunoia Review, forthcoming
@@ -42,3 +42,4 @@ National Silver Medal for Poetry, Scholastic Art & Writing Awards, March 2022
 [middles]: https://www.theweightjournal.com/post/middles-poetry-by-elena-ferrari
 [The Road]: https://www.artandwriting.org/gallery/594002
 [Bare Hands]: https://www.catharticlitmagazine.com/magazine/bare-hands-by-elena-ferrari-15-massachusetts
+[For Time]: fortime.md
