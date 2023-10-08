@@ -5,7 +5,7 @@ main:
   - title: "Poetry"
     url: /poetry/
   - title: "Science"
-      url: /science/
+    url: /science/
   - title: "Photography"
     url: /photography/
 #  - title: "Teaching"
