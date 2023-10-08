@@ -1,6 +1,6 @@
 ---
 title: Publications
-permalink: /publications/
+permalink: /photography/
 layout: single # splash
 toc: true
 toc_label: "Table of Contents"
