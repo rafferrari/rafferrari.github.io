@@ -18,8 +18,8 @@ I have participated into two poetry programs:
 
 ## Published poems
 
-1. **[For Time][fortime.md]**, Eunoia Review, forthcoming
-1. **[inhale in hands[inhale.md]**, Eunoia Review, forthcoming
+1. **[For Time*][fortime.md]**, Eunoia Review, forthcoming
+1. **[inhale in hands][inhale.md]**, Eunoia Review, forthcoming
 1. **Alan Turing**, Eunoia Review, forthcoming
 1. **(If you were an amnesiac) a list of the truths I would tell you**, Eunoia Review, forthcoming
 1. **The Road**, Susquehanna University’s Apprentice Writer, forthcoming
@@ -42,4 +42,4 @@ I have participated into two poetry programs:
 [middles]: https://www.theweightjournal.com/post/middles-poetry-by-elena-ferrari
 [The Road]: https://www.artandwriting.org/gallery/594002
 [Bare Hands]: https://www.catharticlitmagazine.com/magazine/bare-hands-by-elena-ferrari-15-massachusetts
-[For Time]: fortime.md
+
