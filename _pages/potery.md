@@ -38,7 +38,7 @@ Finalist, Smith College High School Poetry Prize, January 2023
 <!-- Links -->
 [a history of speaking]: https://www.smith.edu/academics/applied-learning-research/boutelle-day-poetry-center/high-school-poetry-prize
 [leaving]: https://bluemarblereview.com/leaving/
-[goldfish*]: https://www.theweightjournal.com/post/goldfish-poetry-by-elena-ferrari
+[goldfish]: https://www.theweightjournal.com/post/goldfish-poetry-by-elena-ferrari
 [middles]: https://www.theweightjournal.com/post/middles-poetry-by-elena-ferrari
 [The Road]: https://www.artandwriting.org/gallery/594002
 [Bare Hands]: https://www.catharticlitmagazine.com/magazine/bare-hands-by-elena-ferrari-15-massachusetts
