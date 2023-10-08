@@ -1,5 +1,5 @@
 ---
-title: Potery portfolio
+title: Poetry portfolio
 permalink: /poetry/
 layout: single # splash
 toc: true
