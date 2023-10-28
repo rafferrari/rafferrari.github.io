@@ -11,7 +11,7 @@ author_profile: true
 I was a research intern in Dr. Marko Horb laboratory for ten weeks in the summer of 2023. Dr. Orb is the director of the [National Xenopus Resource] located at the Marine Biological Laboratory (MBL) of the Univeristy of Chicago, in Woods Hole, Massachusetts. The frog Xenopus is a key model organism for biomedical research.  ONE OR TWO SENTENCE TO EXPLAIN WHAT YOU DID.
 
 <figure>
-  <img src="/img/xenopus.jpeg" alt="Alt Text" width="300">
+  <img src="/img/xenopus.jpeg" alt="Alt Text" width="100">
  <figcaption>African clawed frog (Xenopus laevis), from Chimanimani in Manicaland, Zimbabwe. Creative Commons Attribution 2.0 Generic license.</figcaption>
 </figure>
 
