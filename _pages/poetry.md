@@ -7,16 +7,23 @@ toc_label: "Table of Contents"
 author_profile: true
 ---
 
-## Awards
-- Finalist, Smith College High School Poetry Prize, January 2023 
-- National Silver Medal for Poetry, Scholastic Art & Writing Awards, March 2022
-
-## Programs
-I have participated into two competitive poetry programs:
+## Poetry training
+I have participated into two highly competitive poetry programs:
 - Adroit Journal Summer Mentorship Program, Mentee under Katie Berta, Summer 2023
 - Kenyon Young Writers Workshop, Winter 2023
 
-## Published poems
+## Poetry activities and involvement
+- Literary Editor-in-Chief of Magus Mabus (school literary magazine), Milton Academy
+- Co-head of Poetry for the People Club, Milton Academy
+
+## Awards
+- Foyle Young Poets – commended poet, The Poetry Society, 2023
+- Annual Poetry Prize for High School Girls in New England - finalist, Smith College, 2023
+- Persky Award in Poetry, Milton Academy, 2023
+- National Silver Medal in Poetry, Scholastic Art and Writing Awards 2022
+- 4 Regional Gold Keys, 10 Regional Silver Keys, and 8 Regional Honorable Mentions in the categories of poetry and flash fiction, 2020-2022
+
+## Published poetry
 
 1. **[For Time]**, Eunoia Review, forthcoming
 1. **[inhale in hands]**, Eunoia Review, forthcoming
