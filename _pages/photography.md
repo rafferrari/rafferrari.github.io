@@ -23,4 +23,3 @@ author_profile: true
 0.  **Andre Souza**, Gregory L Wagner, Ali Ramadhan, Brandon Allen, Valentin Churavy, James Schloss, Jean-Michel Campin, Chris Hill,
     Alan Edelman, John Marshall, Glenn Flierl, Raffaele Ferrari. [Uncertainty quantification of ocean parameterizations: application to the K-Profile-Parameterization for penetrative convection].
     Journal of Advances in Modeling Earth Systems (2020) [uq video presentation]
-
