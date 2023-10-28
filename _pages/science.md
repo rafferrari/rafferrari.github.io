@@ -8,12 +8,15 @@ author_profile: true
 
 ## Research internship
 
-I was a research intern in Dr. Marko Horb laboratory for ten weeks in the summer of 2023. Dr. Orb is the director of the [National Xenopus Resource] located at the Marine Biological Laboratory (MBL) of the Univeristy of Chicago, in Woods Hole, Massachusetts. The frog Xenopus is a key model organism for biomedical research.  ONE OR TWO SENTENCE TO EXPLAIN WHAT YOU DID.
+I was a research intern in Dr. Marko Horb laboratory for ten weeks in the summer of 2023. Dr. Orb is the director of the [National Xenopus Resource] located at the Marine Biological Laboratory of the Univeristy of Chicago, in Woods Hole, Massachusetts. The frog Xenopus is a key model organism for biomedical research.  I did what? ONE OR TWO SENTENCE TO EXPLAIN WHAT YOU DID.
 
 <figure>
+  <p align="center">
   <img src="/img/xenopus.jpeg" alt="Alt Text" style="width: 50%; height: auto;">
  <figcaption>African clawed frog (Xenopus laevis), from Chimanimani in Manicaland, Zimbabwe. Creative Commons Attribution 2.0 Generic license.</figcaption>
+  </p>
 </figure>
+
 
 ## Ectracurricular activities 
 - Co-head of GAINS (Girls Advancing in STEM) Club. The club organizes engaging, educational STEM activities during bimonthly school club meetings; coordinate school speakers promoting women in STEM
