@@ -10,3 +10,9 @@ author_profile: true
 - Elementary School, Belmont Day School, class of 2017
 - Middle School, Belmont Day School, class of 2020
 - High School, Milton Academy, class of 2024
+
+## Hobbies
+Reading, playing the cello, painting, photography, microscopy, playing volleyball, running, and swimming
+
+## Languages
+English (native), Italian (fluent), Russian (conversational), French (working proficiency)
